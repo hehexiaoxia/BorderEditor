@@ -1,0 +1,13 @@
+G:\BorderEditor\obj\Debug\MainWindow.baml
+G:\BorderEditor\obj\Debug\App.g.cs
+G:\BorderEditor\obj\Debug\MainWindow.g.cs
+G:\BorderEditor\obj\Debug\BorderEditor_MarkupCompile.cache
+G:\BorderEditor\obj\Debug\BorderEditor.g.resources
+G:\BorderEditor\bin\Debug\BorderEditor.exe.config
+G:\BorderEditor\obj\Debug\BorderEditor.csprojResolveAssemblyReference.cache
+G:\BorderEditor\bin\Debug\BorderEditor.exe
+G:\BorderEditor\bin\Debug\BorderEditor.pdb
+G:\BorderEditor\obj\Debug\BorderEditor.Properties.Resources.resources
+G:\BorderEditor\obj\Debug\BorderEditor.csproj.GenerateResource.Cache
+G:\BorderEditor\obj\Debug\BorderEditor.exe
+G:\BorderEditor\obj\Debug\BorderEditor.pdb

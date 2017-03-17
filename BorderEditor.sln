@@ -5,8 +5,6 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BorderEditor", "BorderEditor.csproj", "{87A2DC50-2EDA-4F85-8A09-58213C8B2BA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDemo", "..\SimpleDemo\SimpleDemo.csproj", "{EDD6E723-B51F-48C0-B6C8-BC9549F3BC55}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{87A2DC50-2EDA-4F85-8A09-58213C8B2BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87A2DC50-2EDA-4F85-8A09-58213C8B2BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87A2DC50-2EDA-4F85-8A09-58213C8B2BA0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EDD6E723-B51F-48C0-B6C8-BC9549F3BC55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EDD6E723-B51F-48C0-B6C8-BC9549F3BC55}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EDD6E723-B51F-48C0-B6C8-BC9549F3BC55}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EDD6E723-B51F-48C0-B6C8-BC9549F3BC55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
